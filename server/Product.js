@@ -6,7 +6,7 @@ const products = [
       desc: "6.1-inch display",
       price: 999,
       image:
-        "https://cdn.shopify.com/s/files/1/1684/4603/products/iphone-12-pro_Graphite_600x.png?v=1652856493",
+        "https://assets.sangeethamobiles.com/product_img/8504/1667548386_Djv.jpg",
     },
     {
       id: 2,
