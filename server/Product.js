@@ -35,6 +35,15 @@ const products = [
       image:
         "https://cdn.celekt.com/wp-content/uploads/2022/08/16135225/OPPO-F21-PRO-5G-Cosmic-black-1.webp",
     },
+    {
+      id: 4,
+      name: "OPPO F21 PRO",
+      brand: "OPPO",
+      desc: "5.5-inch display",
+      price: 599,
+      image:
+        "https://cdn.celekt.com/wp-content/uploads/2022/08/16135225/OPPO-F21-PRO-5G-Cosmic-black-1.webp",
+    },
   ];
   
   module.exports = products;
